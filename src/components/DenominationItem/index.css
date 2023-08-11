@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+li {
+  margin-left: 0px;
+  margin: 8px;
+}
+
+.item {
+  text-align: center;
+  width: 162px;
+  cursor: pointer;
+  outline: none;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  background-color: #382f5a;
+  border-width: 1px;
+  border-color: #c4c4c4;
+  border-radius: 4px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
